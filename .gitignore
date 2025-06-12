@@ -1,0 +1,7 @@
+/.kotlin/
+/.idea/
+/build/
+/.gradle/
+/gradle/wrapper/gradle-wrapper.jar
+/gradlew
+/gradlew.bat
