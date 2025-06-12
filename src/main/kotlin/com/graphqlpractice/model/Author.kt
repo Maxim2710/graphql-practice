@@ -1,8 +1,6 @@
 package com.graphqlpractice.model
 
-data class Book(
+data class Author(
     val id: Int,
     val name: String,
-    val pageCount: Int,
-    val authorId: Int,
 )
